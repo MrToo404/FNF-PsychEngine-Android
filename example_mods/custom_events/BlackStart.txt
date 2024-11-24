@@ -1,0 +1,3 @@
+Starts the song with black screen
+place it when it starts to fade back
+Value1: How long it takes to fade back (in steps)

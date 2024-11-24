@@ -1,0 +1,11 @@
+--simp
+[x, y, zoom]
+--adv
+[x, y, zoom, posspeed, zoomspeed,postween,zoomtween]
+--beat
+[beatspeed,intensity]
+--resetPos
+--flash
+[color,duration]
+--fade
+[color,duration or 'clear']
