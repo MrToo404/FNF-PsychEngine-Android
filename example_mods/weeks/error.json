@@ -1,0 +1,34 @@
+{
+	"storyName": "herobrine removed",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Error",
+			"303",
+			[
+				146,
+				113,
+				253
+			],
+			false
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "herobrine",
+	"hiddenUntilUnlocked": false,
+	"weekPlayableCharacter": ""
+}
