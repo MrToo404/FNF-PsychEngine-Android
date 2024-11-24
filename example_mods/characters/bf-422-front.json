@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "bf-back-422 idle",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "bf-back-422 right",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "bf-back-422 left",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "bf-back-422 down",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "bf-back-422 up",
+			"indices": [],
+			"adaptativeloop": false
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-back-422",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bfminecraft",
+	"angle": 0,
+	"flip_x": true,
+	"healthbar_colors": [
+		90,
+		206,
+		244
+	],
+	"camera_position": [
+		800,
+		-700
+	],
+	"sing_duration": 6.1,
+	"scale": 5.89999999999999
+}

@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "422-cut idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "422/422-cut",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "303",
+	"angle": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		25,
+		202,
+		79
+	],
+	"camera_position": [
+		-1800,
+		-800
+	],
+	"sing_duration": 6.1,
+	"scale": 5.89999999999999
+}
